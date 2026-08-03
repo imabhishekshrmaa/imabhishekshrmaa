@@ -22,6 +22,6 @@ Hi, I'm **Abhishek Sharma** — Full Stack Web Developer with **3.5+ years** of 
 ---
 [![](https://visitcount.itsvg.in/api?id=imabhishekshrmaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![github-snake](./github-snake.svg)
+![github-snake](https://raw.githubusercontent.com/imabhishekshrmaa/imabhishekshrmaa/main/output/github-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
