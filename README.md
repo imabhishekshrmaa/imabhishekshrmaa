@@ -28,6 +28,4 @@ Hi, I'm **Abhishek Sharma** — Full Stack Web Developer with **3.5+ years** of 
   <img alt="github-snake" src="https://raw.githubusercontent.com/imabhishekshrmaa/imabhishekshrmaa/output/github-snake.svg" />
 </picture>
 
-![ocean-snake](https://raw.githubusercontent.com/imabhishekshrmaa/imabhishekshrmaa/output/ocean.gif)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
